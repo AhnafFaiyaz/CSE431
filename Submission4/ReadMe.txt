@@ -16,3 +16,5 @@ Group Number:
 Group Members:
 17241014 Hazra Mohammed Ahnaf Faiyaz
 19101501 Sadman Sakib Nabil
+
+We have also correctly uploaded the slide.pptx here.
